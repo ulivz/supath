@@ -1,4 +1,8 @@
 # supath
+[![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)]()
+[![npm](https://img.shields.io/npm/dm/localeval.svg)]()
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
+
 An additional path parsing module for nodejs
 
 # Qucik Start
