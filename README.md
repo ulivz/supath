@@ -50,7 +50,7 @@ More api please continue to look down.
 - Description: `Gets a delimiter for a path`
 
 This method is not used to get the system's delimiter
-and Returns `undefined` if the path contains '/ \' or both '/ \'
+and Returns `undefined` if the path contains `/` or both`\`
 
 
 ## supath.isFilePath(path)

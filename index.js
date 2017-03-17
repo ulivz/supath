@@ -1,5 +1,5 @@
 /**
- * @license v2js v0.0.1
+ * @license supath v0.0.7
  * (c) 2016-2017 toxixhl
  * License: MIT
  */
