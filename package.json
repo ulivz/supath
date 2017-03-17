@@ -1,10 +1,14 @@
 {
   "name": "supath",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An additional path parsing module for nodejs",
   "main": "index.js",
   "scripts": {
     "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toxichl/supath.git"
   },
   "keywords": [
     "path",

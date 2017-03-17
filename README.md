@@ -71,7 +71,6 @@ C:\Program Files\ASUS\AMDA\AXSP\ATKEX.dll
 - Description: `detect whether a string meets the requirements of the [directory] path`
 
 
-
 The following example will return `true`:
 
 ```markdown
@@ -101,9 +100,11 @@ fullPath| `The original path`
 
 ## supath.standardDir(path, flag)
 - ParamType: `(String, Boolean)`
-- Description: `Directory path normalization - directory path ends with '/ \' or no '/ \`
+- Description: `Directory path normalization - directory path ends with '/' or no '\`
 
-The default value of {flag} is true
+The default value of `flag` is `true`, For the role of flag, please see the table below
 
-> {flag} = true, returns the path string with '/ \' at the end
-> {flag} = false, return to the end of the path string without '/ \'
+flag|desc
+---|---
+true|returns the path string with `\` at the end
+false|return to the end of the path string without `\`
