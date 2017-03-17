@@ -1,0 +1,20 @@
+{
+  "name": "supath",
+  "version": "0.0.3",
+  "description": "An additional path parsing module for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "path",
+    "nodejs",
+    "parse",
+    "path-parse"
+  ],
+  "author": "toxichl",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
