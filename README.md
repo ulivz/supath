@@ -1,7 +1,7 @@
 # supath
 [![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)]()
 [![npm](https://img.shields.io/npm/dm/localeval.svg)]()
-[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)]() [![Greenkeeper badge](https://badges.greenkeeper.io/ulivz/supath.svg)](https://greenkeeper.io/)
 
 An additional path parsing module for nodejs
 
