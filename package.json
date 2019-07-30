@@ -19,6 +19,6 @@
   "author": "toxichl",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^19.0.2"
+    "jest": "^24.8.0"
   }
 }
